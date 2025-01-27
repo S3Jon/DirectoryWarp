@@ -29,7 +29,7 @@ function dw() {
         echo "$target"
     fi
 }
-# DirectoryWarp
+# /DirectoryWarp
 ```
 Una vez hecho esto recargamos la shell para que tenga la nueva configuración:
 ```

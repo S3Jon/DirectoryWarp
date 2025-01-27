@@ -41,27 +41,27 @@ Y ya se puede usar
 Uso
 ======
 
-⋅⋅* Guardar directorio
+· Guardar directorio
 ```
 dw set mydir
 ```
 
-⋅⋅* Ir al directorio
+· Ir al directorio
 ```
 dw mydir
 ```
 
-⋅⋅* Listar directorio
+· Listar directorio
 ```
 dw ls
 ```
 
-⋅⋅* Borrar un warp específico
+· Borrar un warp específico
 ```
 dw rm warp_a_borrar
 ```
 
-⋅⋅* Borrar todos los warps
+· Borrar todos los warps
 ```
 dw clear
 ```
